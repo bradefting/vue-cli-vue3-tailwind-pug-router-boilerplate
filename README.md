@@ -20,5 +20,15 @@ npm run build
 npm run lint
 ```
 
+### Tech Stack
+- Babel
+- ESLint + Airbnb 
+- Node SASS
+- Pug - plugin
+- TailwindCSS - plugin
+- Vue3
+- Vue CLI
+- Vue Router
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
