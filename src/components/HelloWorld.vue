@@ -39,6 +39,7 @@
       a(href='https://vue-loader.vuejs.org' target='_blank' rel='noopener') vue-loader
     li
       a(href='https://github.com/vuejs/awesome-vue' target='_blank' rel='noopener') awesome-vue
+  p.text-blue-500.italic.mt-4 If this text is blue, TailwindCSS is working
 </template>
 
 <script>
